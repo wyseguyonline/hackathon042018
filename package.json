@@ -4,12 +4,14 @@
   "description": "3cd21070d342459aa8175ad3fc0987a1",
   "main": "index.js",
   "dependencies": {
+    "datastructures-js": "^5.3.1",
     "noble": "^1.9.1",
     "sphero": "^0.9.2"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "PORT=/dev/tty.Sphero-XXX-XXX-XXX node graphs.js"
   },
   "repository": {
     "type": "git",

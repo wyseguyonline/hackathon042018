@@ -1,3 +1,5 @@
 # hackathon042018
 
-3cd21070d342459aa8175ad3fc0987a1
+An attempt to use Node to program a Sphero R2-D2.  
+
+Current Status:  Inactive until sphero dependency is picked back up
